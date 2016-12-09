@@ -1,2 +1,4 @@
-# socketcluster-gomix-template
-socketcluster template for gomix (https://gomix.com)
+SocketCluster Sample App
+======
+
+This is a sample SocketCluster app.
