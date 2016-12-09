@@ -1,4 +1,11 @@
-SocketCluster Sample App
+SocketCluster gomix Template
 ======
+SocketCluster template for gomix
 
-This is a sample SocketCluster app.
+Usage
+======
+just copy following line
+```
+acidsound/socketcluster-gomix-template
+```
+and go to the advanced options in gomix.com then click ***"import from github"*** and paste it.
